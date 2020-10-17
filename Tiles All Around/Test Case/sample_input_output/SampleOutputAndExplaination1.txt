@@ -1,0 +1,6 @@
+1
+2
+
+Explaination -> 
+If the grid is of size 2x1, only 1 tile is possible.
+If grid size is 2x2, either both tiles are horizontal or both are vertical.
